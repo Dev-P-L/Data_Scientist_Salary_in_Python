@@ -2,9 +2,9 @@
 
 Hello
 
-This Data Analysis project thoroughly analyzes ai-jobs.net [full dataset of global AI/ML salaries](https://salaries.ai-jobs.net/download/)  in Python.
+This Data Analysis project thoroughly analyzes in Python the [full dataset of global AI/ML salaries](https://salaries.ai-jobs.net/download/) of ai-jobs.net, which I thank for its readily available and very clear dataset.
 
-Data Mining has been conducted in all salary breakdowns:
+Data Mining has been conducted accross all available salary breakdowns, namely:
 * company location country,
 * job title,
 * experience level,
@@ -12,15 +12,16 @@ Data Mining has been conducted in all salary breakdowns:
 * remote ratio,
 * employee’s primary country of residence.
 
-Analysis uses
+Analysis tools used include
 * data density functions and full sets of points,
-* summary information (median, mean, quartiles, fences, minimum and maximum),
-* full hover information about each salary in interactive graphs with nine features readily available.
+* summary statistics (median, mean, quartiles, fences, minimum and maximum),
+* full hover information about each job position.
 
-Visualization is interactive and processed through Plotly Express and the package itables:
-* violin plots completed with full sets of points and full hover information,
-* reading is facilitated by animation sliders and range sliders. 
-* interactive tables comprised of summary statistics or detailed presentation by job title and experience level,
+Visualization tools include
+* interactive violin plots from Plotly Express, which are completed with full sets of points and full hover information (nine features for each data point),
+* other interactive graphs,
+* animation sliders and range sliders, which facilitate readability,
+* interactive tables, made with the package itables, which are comprised of summary statistics or detailed presentation by job title and experience level,
 
 Do not hesitate to get in touch. Contact information is provided in this account. 
 
