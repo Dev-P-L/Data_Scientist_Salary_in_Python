@@ -2,6 +2,8 @@
 
 Hello
 
+Here is the hyperlink to the main document: https://dev-p-l.github.io/Data_Scientist_Salary_in_Python/Data_Scientist_Salary.html .
+
 This Data Analysis project thoroughly analyzes in Python the [full dataset of global AI/ML salaries](https://salaries.ai-jobs.net/download/) of ai-jobs.net, which I thank for its readily available and very clear dataset.
 
 Data Mining has been conducted accross all available salary breakdowns, namely:
